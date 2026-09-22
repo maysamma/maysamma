@@ -5,7 +5,7 @@ AI & Software Engineer
 * 🏛️ [Ruwi](https://github.com/HOUYOKI/Ruwi-AI.git)
 * 🌿 [GreenScape AI](https://github.com/maysamma/greenscape-ai)
 * 🌳 [Canopy AI](https://github.com/maysamma/canopy-ai)
-* 🌾 [Agro-Mind](https://github.com/maysamma/agro-mind)
+* 🌾 [Agro-Mind](https://github.com/HOUYOKI/agro-mind)
 * 🌊 [MarineGuard AI](https://github.com/maysamma/MarineGuard_AI)
 * 🎓 [Training Hub](https://github.com/maysamma/Training-Hub)
 * 🤖 [AI Medical Assistant](https://github.com/maysamma/Medical-Information-Assistant)
