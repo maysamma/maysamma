@@ -1,4 +1,4 @@
-# Hi 👋 I'm Maysam
+# Maysam Abduljalil
 AI & Software Engineer
 
 ## Projects
