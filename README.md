@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Maysam Abduljalil
+# Maysam Abduljalil
 
 ### AI Engineer | Software Engineer
 
-I build AI-powered and full-stack applications.
+🚀 **[Explore My Projects →](https://github.com/maysamma?tab=repositories)**
 
-## 🚀 My Projects
-
-👉 [View All My Projects](https://github.com/maysamma?tab=repositories)
